@@ -21,3 +21,10 @@
 - Get a complete list of file name with same extension.
 - For Ex: If you are compiling .c and .h file using makefile compilation. 
   This Tool will help to keep the compilation file up-to date at runtime.
+
+**************************************************************
+					Recommmendation
+**************************************************************
+- **Know Issue** : Tool will crash if it detects any folder un-accessible. 
+- Better works with the user created folder.
+- Avoid running tool on Windows system folders.
